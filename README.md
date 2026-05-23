@@ -16,7 +16,7 @@ A clean and responsive Todo List web application built using HTML,CSS, and JavaS
 - JavaScript
 
 ## Project Screenshot
-![Todo list screenshot](screenshot.png)
+![Todo list screenshot](Screenshot.png)
 
 ## How to Run the Project
 1. Download or clone the repository
