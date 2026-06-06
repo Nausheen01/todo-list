@@ -32,4 +32,4 @@ A clean and responsive Todo List web application built using HTML,CSS, and JavaS
 - Firebase backend
 
 ## Author
-Made by Nausheen 
+Made by Nausheen Saifi
