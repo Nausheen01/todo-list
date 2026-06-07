@@ -1,6 +1,6 @@
 # Simple Todo List App
 
-A clean and responsive Todo List web application built using HTML,CSS, and JavaScript.
+Responsive Todo List web app built with HTML, CSS, and JavaScript featuring task creation, editing, completion, and deletion.
 
 ## Features
 - Add new Tasks
